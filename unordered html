@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<h1>
+Unordered list
+</h1>
+<type>
+My Typical Dinner Shoping List
+</type>
+<ul>
+<li>Milk</li>
+<li>Donuts</li>
+<li>Cookies</li>
+<ul>
+<type="circle">
+<li>Chocolate</li>
+<li> Sugar</li>
+<li>Peanut Butter</li>
+</ul>
+<li>Oreo</li>
+</ul> 
