@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<style>
+a:link{
+color:green;
+background-color:transparent;
+text-decoration:none;
+}
+a:hover{
+color:red:
+background-color:transparent;
+text-decoration:underline;
+}
+a:active{
+color:yellow;
+background-color:transparent;
+text-decoration:underline;
+}
+</style>
+<body>
+<p>you can change the deafult colors of links</p>
+<a href="https://www.kiet.edu"target="_blank">KIET WEBSITE link</a>
+</body>
+</html>
